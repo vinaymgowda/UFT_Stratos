@@ -1,0 +1,8 @@
+﻿Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich: Analytical,").Link("United States").Click @@ hightlight id_;_Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich: Analytical,").Link("United States")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("Sigma-Aldrich: Analytical,").Page("MilliporeSigma | United").Link("Sign in").Click @@ hightlight id_;_Browser("Sigma-Aldrich: Analytical,").Page("MilliporeSigma | United").Link("Sign in")_;_script infofile_;_ZIP::ssf2.xml_;_
+
+Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").WebElement("Username:  Please enter").Click @@ hightlight id_;_Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").WebElement("Username:  Please enter")_;_script infofile_;_ZIP::ssf3.xml_;_
+Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").Sync @@ hightlight id_;_Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login")_;_script infofile_;_ZIP::ssf4.xml_;_
+Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").WebEdit("logonId").Set "vinay_Us" @@ hightlight id_;_Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").WebEdit("logonId")_;_script infofile_;_ZIP::ssf5.xml_;_
+Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").WebEdit("logonPassword").SetSecure "5f1584cfccaf4ec0e858b8552d4f6922f69e2cbfec00" @@ hightlight id_;_Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").WebEdit("logonPassword")_;_script infofile_;_ZIP::ssf6.xml_;_
+Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").WebButton("Login").Click @@ hightlight id_;_Browser("Sigma-Aldrich: Analytical,").Page("Sigma-Aldrich, Login").WebButton("Login")_;_script infofile_;_ZIP::ssf7.xml_;_
